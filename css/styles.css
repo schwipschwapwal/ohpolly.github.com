@@ -1,5 +1,5 @@
 body {
-    background-color: #EDFFEC;
+    background-color: #FEFFDE;
 }
 
 hr {
@@ -7,7 +7,7 @@ hr {
     border-top-style: dotted;
     border-color: #6E85B2;
     border-width: 3px;
-    width: 3%
+    width: 3%;
 }
 
 h1 {
@@ -20,7 +20,7 @@ font-weight: normal;
 text-decoration: none solid rgb(68, 68, 68);
 font-style: normal;
 font-variant: normal;
-text-transform: uppercase
+text-transform: uppercase;
 }
 
 h2 {
@@ -33,5 +33,5 @@ h2 {
     text-decoration: none solid rgb(68, 68, 68);
     font-style: normal;
     font-variant: normal;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
