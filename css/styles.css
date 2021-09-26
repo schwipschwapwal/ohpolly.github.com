@@ -22,6 +22,7 @@ h1 {
     font-variant: normal;
     text-transform: uppercase;
     width: 40%;
+    text-align: center;
 }
 
 h2 {
@@ -36,4 +37,5 @@ h2 {
     font-variant: normal;
     text-transform: uppercase;
     width: 40%;
+    text-align: center;
 }
