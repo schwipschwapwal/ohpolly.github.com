@@ -1,5 +1,5 @@
 body {
-    background-color: #3E2C41;
+    background-color: #FFDEDE;
 }
 
 hr {
@@ -10,6 +10,28 @@ hr {
     width: 3%
 }
 
-img {
-    height: 200px
+h1 {
+font-family: "Courier New", Courier, monospace;
+font-size: 25px;
+letter-spacing: 6px;
+word-spacing: -0.4px;
+color: #000000;
+font-weight: normal;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase
+}
+
+h2 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    letter-spacing: 6px;
+    word-spacing: -0.4px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: uppercase
 }
