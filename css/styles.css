@@ -1,6 +1,5 @@
 body {
     background-color: #FEFFDE;
-    display: flex;
 }
 
 hr {
@@ -24,6 +23,7 @@ h1 {
     text-transform: uppercase;
     width: 40%;
     text-align: center;
+    display: flex;
 }
 
 h2 {
@@ -39,4 +39,5 @@ h2 {
     text-transform: uppercase;
     width: 40%;
     text-align: center;
+    display: flex;
 }
