@@ -1,6 +1,6 @@
 body {
     background-color: #FEFFDE;
-    text-align: center;
+    display: flex;
 }
 
 hr {
